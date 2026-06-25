@@ -69,17 +69,6 @@ Image steganography tool — encrypts text with AES-256-GCM, then embeds it into
 **🤖 [Mohit's ChatBot](https://github.com/imohitseth/mohitsbot)** · [Live Demo](https://mohitsbot.vercel.app)
 Full-stack conversational AI agent using LangChain + Gemini 2.5 Flash with Retrieval-Augmented Generation (RAG) for context-aware answers. Serverless backend on Vercel, integrated into my portfolio frontend via CORS.
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imohitseth&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imohitseth&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 ---
 
