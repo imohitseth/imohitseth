@@ -15,6 +15,7 @@ Technical Head @ IEE PELS VIT Vellore — building backend systems, AI agent inf
 ### 🔭 What I'm Doing
 
 - 🛠️ Building self-healing dev tooling, multi-agent systems, and AI-integrated backends
+- 🏢 Developed end-to-end conversational agent as a Software Engineer Intern at iServeU
 - 📚 Sharpening data structures, algorithms, and system design fundamentals
 - 🧪 Explored quantum entanglement & SVD as a Research Intern at LNMIIT
 - 👨‍🏫 Teaching Python, C++, and DSA to 85+ learners on Schoolhouse.world
